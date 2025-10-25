@@ -1,0 +1,1 @@
+function loadLang(){return Promise.resolve();} function applyT(){}
